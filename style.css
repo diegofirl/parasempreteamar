@@ -46,12 +46,3 @@ button {
     font-size: 20px;
     box-shadow: 0 1px 10px 1px rgba(0, 0, 0, 0.5);
 }
-
-a {
-    text-decoration: none;
-    color: white;
-}
-
-a:hover{
-    color: white;
-}
